@@ -1,0 +1,33 @@
+body{
+    background-color: #335B29;
+    text-align: center;
+    background-image: url('../imagens/logotipo_dark.png');
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-position-y:200px;
+    background-size:300px;
+}
+
+.admin{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+}
+
+#lgreen-box2 {
+    padding: 30px;
+    margin-top: 250px;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: #a4cf9fad;
+    color: white;
+    font-weight: bold;
+    min-width: 200px;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #6580629a;
+    border-color: #6580628a;
+}
